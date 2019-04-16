@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:background="#D3D3D3"
     android:weightSum="10"
-    tools:context="com.example.bodhi64.virtuozatutorials.MainActivity">
+    tools:context=".MainActivity">
 
     <RelativeLayout
         android:layout_weight="2"
@@ -60,7 +60,7 @@
                 android:layout_height="wrap_content">
 
                 <ImageView
-                    android:src="@drawable/ic_back1"
+                    android:src="@drawable/sport_basketball"
                     android:layout_gravity="center_horizontal"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
@@ -99,7 +99,7 @@
                 android:layout_height="wrap_content">
 
                 <ImageView
-                    android:src="@drawable/ic_back2"
+                    android:src="@drawable/sport_football"
                     android:layout_gravity="center_horizontal"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
@@ -141,7 +141,7 @@
                 android:layout_height="wrap_content">
 
                 <ImageView
-                    android:src="@drawable/ic_back3"
+                    android:src="@drawable/sport_soccer"
                     android:layout_gravity="center_horizontal"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
@@ -180,7 +180,7 @@
                 android:layout_height="wrap_content">
 
                 <ImageView
-                    android:src="@drawable/ic_back4"
+                    android:src="@drawable/sport_swimming"
                     android:layout_gravity="center_horizontal"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
@@ -221,7 +221,7 @@
                 android:layout_height="wrap_content">
 
                 <ImageView
-                    android:src="@drawable/ic_back5"
+                    android:src="@drawable/sport_track"
                     android:layout_gravity="center_horizontal"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
@@ -260,7 +260,7 @@
                 android:layout_height="wrap_content">
 
                 <ImageView
-                    android:src="@drawable/ic_back6"
+                    android:src="@drawable/sport_waterpolo"
                     android:layout_gravity="center_horizontal"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
